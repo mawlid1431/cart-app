@@ -1,0 +1,50 @@
+.flex{
+  display:flex;
+  align-items: center;
+  justify-content: center
+}
+
+.flex button{
+  padding:4px 9px;
+  margin: 10px
+}
+
+h2{
+  text-align: center
+}
+
+p{
+  font-weight: bold;
+  font-size:23px
+}
+
+
+*{
+  padding:0;
+  margin: 0
+}
+body {
+  margin: 20px 0px;
+  text-align: center
+}
+
+
+ol{
+   margin-top: 15px
+}
+
+.form{
+  margin:10px 0px;  
+}
+
+input{
+  padding:3px;
+  margin-right: 4px
+}
+button{
+  background: green;
+  color:white;
+  border: none;
+  border-radius: 2px;
+  padding:6px
+}
